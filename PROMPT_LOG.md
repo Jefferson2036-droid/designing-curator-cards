@@ -63,17 +63,9 @@ Each card must follow this exact schema:
 Use ONLY the vocabulary from my controlled vocabulary list.
 If you are unsure about any fact, write VERIFY instead of guessing.
 
-- # What I got back
+- # What I did with it
 
-- **Title:** Bauhaus (1919–1933)  
-- **Body:**  
-The Bauhaus was a pioneering design school founded by Walter Gropius in Weimar, Germany, in 1919. It emphasized the integration of art, craft, and technology, promoting functionalism and rejecting excessive ornamentation. Bauhaus designers utilized geometric forms and modularity to create objects and architecture that were both practical and accessible for mass production. The movement’s focus on universal design and minimalism influenced modernist design globally, shaping disciplines from graphic design to architecture. Despite its closure in 1933 due to political pressure, Bauhaus remains a cornerstone of modern design education and practice.  
-- **Tags:** Functionalism, Geometric Forms, Modularity, Minimalism, Universal Design  
-- **Examples:**  
-  1. [Bauhaus Collection at MoMA](https://www.moma.org/collection/works?classifications=any&department_id=3)  
-  2. [Bauhaus Archive Museum](https://www.bauhaus.de/en/)  
-- **Confusion:** Not to be confused with Swiss Style, which focused on grid systems and typographic clarity.  
-- **Accountability:** I verified this by checking [MoMA](https://www.moma.org) and [Bauhaus Archive](https://www.bauhaus.de/en/).  
+I took all three curator cards and put them into a new file called #DRAFTS.MD. In this file I analyzed and saw that curator cards were alright. 
 
 ## Prompt 4 ##
 
