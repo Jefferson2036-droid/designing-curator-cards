@@ -32,4 +32,15 @@ The Bauhaus was a pioneering design school founded by Walter Gropius in Weimar, 
   1. [Josef Müller-Brockmann posters at MoMA](https://www.moma.org/collection/works/artist/3972)  
   2. [Swiss Style collection at Cooper Hewitt](https://collection.cooperhewitt.org/)  
 - **Confusion**: Not to be confused with Bauhaus because Swiss Style focuses on typographic clarity and grid systems, while Bauhaus integrates art, craft, and industrial production with a broader focus on design.  
-- **Accountability**: I verified this by checking [source].  
+- **Accountability**: I verified this by checking [source]. 
+
+# Revised Swiss Style with expert critique
+
+- **Title**: Swiss Style (1950s–1970s)  
+- **Body**: Swiss Style, also known as the International Typographic Style, emerged in Switzerland and Germany in the post-war period, driven by a need for clear and effective communication. This movement is defined by its use of the *grid system* to create structured and balanced layouts, *sans-serif typography* for clarity, and a commitment to *functionalism* and *universal design*. Designers prioritized *minimalism*, removing unnecessary elements to focus on essential content. While Swiss Style became a cornerstone of modern graphic design, influencing corporate branding and public communication systems, its perceived rigidity later inspired movements like New Wave Typography, which sought to challenge its strict conventions.  
+- **Tags**: grid system, sans-serif typography, functionalism, universal design, minimalism  
+- **Examples**:  
+  1. [Josef Müller-Brockmann posters at MoMA](https://www.moma.org/collection/works/artist/3972)  
+  2. [Swiss Style collection at Cooper Hewitt](https://collection.cooperhewitt.org/)  
+- **Confusion**: Not to be confused with Bauhaus because Swiss Style focuses on typographic clarity and grid systems, while Bauhaus integrates art, craft, and industrial production with a broader focus on design.  
+- **Accountability**: I verified this by checking [source].
